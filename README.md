@@ -1,7 +1,7 @@
-# Fenrir VK
+# Fenrir VK GooglePlay
 Первый языческий
 
-# Новый репозиторий https://github.com/umerov1999/Old2_Fenrir-for-VK
+# Новый репозиторий https://github.com/umerov1999/Fenrir-for-VK
 
 <b>Языки: Русский, английский</b>
 
